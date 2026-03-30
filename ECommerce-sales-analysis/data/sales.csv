@@ -1,0 +1,11 @@
+Order Date,Product Name,Category,Sales,Profit,Customer ID,Region
+2023-01-05,Chair,Furniture,200,20,C001,South
+2023-02-10,Table,Furniture,450,50,C002,North
+2023-03-15,Phone,Technology,800,120,C003,East
+2023-04-20,Laptop,Technology,1200,200,C001,West
+2023-05-25,Pen,Office Supplies,50,10,C004,South
+2023-06-30,Notebook,Office Supplies,100,20,C002,North
+2023-07-05,Printer,Technology,600,90,C003,East
+2023-08-10,Desk,Furniture,300,40,C005,West
+2023-09-15,Mouse,Technology,150,30,C001,South
+2023-10-20,Keyboard,Technology,200,35,C002,North
